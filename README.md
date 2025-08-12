@@ -16,17 +16,17 @@ Este projeto implementa um exemplo de Machine Learning usando um classificador *
 
 ## 🚀 Como Executar
 
-1. Clone o repositório
+1. Clone o repositório:
   ```bash
   git clone https://github.com/Gledson-Perdival-Junior/iris-flowers.git
   cd iris-flowers
    ```
 
-2. Instale as dependências (recomenda-se usar ambiente virtual)
+2. Instale as dependências (recomenda-se usar ambiente virtual):
 ````bash
 pip install -r requirements.txt
 ````
-3. Execute o script
+3. Execute o script:
 ````bash
 python iris-flowers.py
 ````
