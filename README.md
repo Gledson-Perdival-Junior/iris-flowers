@@ -1,6 +1,6 @@
 # 🌸 Iris Flowers Classifier – KNN from Scratch
 
-Este projeto implementa um exemplo de Machine Learning usando um classificador **K-Nearest Neighbors (KNN)** do zero em Python, usando o famoso **conjunto de dados Iris** da biblioteca `scikit-learn`. A ideia é demonstrar como funciona um classificador simples sem depender de bibliotecas prontas para o modelo.
+Este projeto implementa um exemplo de Machine Learning usando um classificador **K-Nearest Neighbors (KNN)** do zero em Python, usando o famoso **conjunto de dados Iris** da biblioteca `scikit-learn`. A ideia deste projeto é demonstrar como funciona um classificador simples sem depender de bibliotecas prontas para o modelo.
 
 ---
 
