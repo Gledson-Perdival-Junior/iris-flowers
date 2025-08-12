@@ -46,7 +46,7 @@ pip install scikit-learn scipy
 "reconhecimento com aproximadamente 96 % de precisão"
 ````
 ## 📚 O que é o dataset Iris?
-O conjunto de dados Iris é um clássico da estatística e machine learning. Ele contém:
+O conjunto de dados Iris é um clássico da estatística e Machine Learning. Ele contém:
 
 - 150 amostras
 
